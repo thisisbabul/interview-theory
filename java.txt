@@ -5,3 +5,17 @@ Updating existing object functionality
 
 //when create thread by runnable interface
 Object <- Parent <- Child //If need to implement thread in Child Class
+
+//exception
+Unchecked //runtime exception
+Java App is not connected to outer resource //Handling is optional
+	ArithmaticException
+	ArrayIndexOutOfBoundException
+	NumberFormationException
+	NullPointerException
+
+Checked //compile time exception
+Java App is connected to outer resource //Handling is mandatory else class file will not generate
+	IOException
+	FileNotFoundException
+	SQLException
