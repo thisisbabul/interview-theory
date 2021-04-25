@@ -19,3 +19,21 @@ Java App is connected to outer resource //Handling is mandatory else class file 
 	IOException
 	FileNotFoundException
 	SQLException
+
+//abstract class
+class //complete representation of object (100%)
+
+abstract //Partial represtionation of object
+	abstract class Vehicle {
+		fuel() {}
+		abstract ac();
+		abstract powerWindows();
+	}
+
+	abstract class Car extends Vehicle {
+		acc() {}
+	}
+
+	class Swift {
+		powerWindows() {}
+	}
