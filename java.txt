@@ -37,3 +37,12 @@ abstract //Partial represtionation of object
 	class Swift {
 		powerWindows() {}
 	}
+
+//runnable state
+Waiting in queue to be started //watch movie
+
+//gargage collector
+providing service to non-daemon thread //clean heap memory
+
+//transient
+ignore that variable to serialize
