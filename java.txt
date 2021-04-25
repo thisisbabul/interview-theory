@@ -1,0 +1,7 @@
+//inheritance
+Accessing existing object functionality
+Adding new features
+Updating existing object functionality
+
+//when create thread by runnable interface
+Object <- Parent <- Child //If need to implement thread in Child Class
