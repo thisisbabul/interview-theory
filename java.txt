@@ -41,7 +41,7 @@ abstract //Partial represtionation of object
 //runnable state
 Waiting in queue to be started //watch movie
 
-//gargage collector
+//garbage collector
 providing service to non-daemon thread //clean heap memory
 
 //transient
