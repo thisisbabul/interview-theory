@@ -1,0 +1,5 @@
+//Actuator
+Tool to manage and monitor spring boot applications. Each endpoint can be exposed over HTTP and JMX.
+
+//Spring Data JPA
+See Image
