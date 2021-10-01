@@ -4,3 +4,10 @@ The microservice architectural style is an approach to developing a single appli
 //Gartner
 A microservice is a service-oriented application component that is tightly scoped, strongly encapsulated, loosely coupled, independently deployable and independently scalable
 
+//Drawback of Monolithic Architecture
+- Performance issue due to huge data
+- Continuous deployment not possible
+- Adopting new technologies will be difficult
+- Exception propagation not proper
+- Code readable is not there
+
