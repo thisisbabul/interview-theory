@@ -46,3 +46,6 @@ providing service to non-daemon thread //clean heap memory
 
 //transient
 ignore that variable to serialize
+
+//lambda expression
+represent an anonymous(nameless/unknown) function
