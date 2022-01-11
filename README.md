@@ -36,17 +36,45 @@
     //equals method
     content comparism
 
+**Object**
+
+    Any entity that has state and behavior is known as an Object
+
+**Class**
+
+    Collection of objects is called class.
+
+**Inheritance**
+
+    - Accessing & updating existing object functionality
+    - Adding new features
+
+**Polymorphism**
+
+    If one task is performed in different ways.
+    Example: Method overloading & overriding.
+
+**Abstraction**
+    
+    Hiding internal details & showing functionality is known as abstraction.
+    Example: Abstract class & Interface.
+
 **Interface**
     
     100% data abstraction
 
 **Abstract class**
     
-    Partial implemenation
+    Partial implemenation of object
+
+**Encapsulation**
+
+    Binding code & data together into a single unit is known as encapsulation
+    Example: Java bean
 
 **Concrete class**
 
-    100% implemenation
+    100% implemenation of object
 
 **Overloading**
 
@@ -61,3 +89,26 @@
     - Method argument types must be same (including order)
     - Private, static & final method can not be overriden
     - Runtime polymorphism
+
+**Check exception**
+
+    1. Compile-time exception
+    2. Java app connected to outer resource // handling is mandatory
+    3. Example
+        - IOException
+        - FileNotFoundException
+        - SQLException
+
+**Uncheck Exception**
+
+    1. Runtime exception
+    2. Java app not connected to outer resource // handling is optional
+    3. Example
+        - ArithmaticException
+        - ArrayIndexOutOfBoundException
+        - NumberFormationException
+        - NullPointerException
+
+**Transient variable**
+
+    ignore that type of variable to serialize
