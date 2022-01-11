@@ -48,3 +48,16 @@
 
     100% implemenation
 
+**Overloading**
+
+    - Method name must be same
+    - Method argument types must different (at least order)
+    - Private, static & final method can be overloaded
+    - Compile time polymorphism
+
+**Overriding**
+    
+    - Method name must be same
+    - Method argument types must be same (including order)
+    - Private, static & final method can not be overriden
+    - Runtime polymorphism
